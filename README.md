@@ -1,11 +1,7 @@
 # NFT Flutter Application
 
 ![App Screenshot]
-![image]([https://your-image-url.type](https://github.com/lachu21/nftmarket/assets/144773660/b85d9150-b68c-4b55-971b-10ef932b758d.png) with <img src="https://your-image-url.type" width="100" height="100">
-![Screenshot1 png](https://github.com/lachu21/nftmarket/assets/Screenshot1.png.jpg | width=100)
-![Screenshot2 png (2)](https://github.com/lachu21/nftmarket/assets/144773660/b85d9150-b68c-4b55-971b-10ef932b758d.png | width=100)
-![Screenshot3 png](https://github.com/lachu21/nftmarket/assets/144773660/844311ff-0711-4c81-9d99-f09ff270a79e.png | width=100)
-![Screenshot4 png](https://github.com/lachu21/nftmarket/assets/144773660/cabb5adf-9e5b-46e3-9d5a-d00426949738.png | width=100)
+
 
 <img src="https://assets/Screenshot1.jpg" width="100" height="100">
 
@@ -49,3 +45,26 @@ Before you begin, ensure you have met the following requirements:
 
    ```shell
    git clone https://github.com/yourusername/nft-flutter-app.git
+
+## Usage
+Launch the app on your device.
+Explore the NFT marketplaces available within the app.
+Browse and purchase NFTs using your wallet.
+Manage your NFT collection.
+View NFT details and metadata.
+Enjoy your NFT experience!
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
+Make your changes and commit them: git commit -m 'Add some feature'.
+Push to your forked repository: git push origin feature/your-feature-name.
+Create a pull request to the main branch of the original repository.
+Please follow the Code of Conduct and Contribution Guidelines when contributing to this project.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Make sure to replace placeholders like `lachu21` with your actual information and customize the sections as needed to provide comprehensive information about your NFT Flutter application. Include screenshots or other visual elements to make your README more engaging and informative for users and contributors.
