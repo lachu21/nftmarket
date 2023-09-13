@@ -1,7 +1,7 @@
 # NFT Flutter Application
 
 ![App Screenshot]
-![image]([https://your-image-url.type](https://github.com/lachu21/nftmarket/assets/144773660/b85d9150-b68c-4b55-971b-10ef932b758d)) with <img src="https://your-image-url.type" width="100" height="100">
+![image]([https://your-image-url.type](https://github.com/lachu21/nftmarket/assets/144773660/b85d9150-b68c-4b55-971b-10ef932b758d.png) with <img src="https://your-image-url.type" width="100" height="100">
 ![Screenshot1 png](https://github.com/lachu21/nftmarket/assets/Screenshot1.png.jpg | width=100)
 ![Screenshot2 png (2)](https://github.com/lachu21/nftmarket/assets/144773660/b85d9150-b68c-4b55-971b-10ef932b758d.png | width=100)
 ![Screenshot3 png](https://github.com/lachu21/nftmarket/assets/144773660/844311ff-0711-4c81-9d99-f09ff270a79e.png | width=100)
