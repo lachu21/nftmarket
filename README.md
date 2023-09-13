@@ -7,7 +7,7 @@
 ![Screenshot3 png](https://github.com/lachu21/nftmarket/assets/144773660/844311ff-0711-4c81-9d99-f09ff270a79e.png | width=100)
 ![Screenshot4 png](https://github.com/lachu21/nftmarket/assets/144773660/cabb5adf-9e5b-46e3-9d5a-d00426949738.png | width=100)
 
-<img src="https://github.com/lachu21/nftmarket/assets/Screenshot1.png.jpg" width="100" height="100">
+<img src="https://assets/Screenshot1.jpg" width="100" height="100">
 
 
 ## Table of Contents
