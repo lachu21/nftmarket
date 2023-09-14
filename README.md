@@ -1,10 +1,10 @@
 # NFT Flutter Application
+## App Screenshots
 
-![App Screenshot]
 
 
-<img src="Screenshotnft1.png" width="100" height="100">
-
+<img src="Screenshotnft1 .png" width="30%" height="30%">  <img src="Screenshotnft2.png" width="30%" height="30%"> <br>
+<img src="Screenshotnft3.png" width="30%" height="30%">  <img src="Screenshotnft4.png" width="30%" height="30%">
 
 ## Table of Contents
 
