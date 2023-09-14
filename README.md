@@ -3,7 +3,7 @@
 ![App Screenshot]
 
 
-<img src="https://assets/Screenshot1.jpg" width="100" height="100">
+<img src="Screenshotnft1.png" width="100" height="100">
 
 
 ## Table of Contents
